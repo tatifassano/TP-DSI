@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{831C341E-BF2D-4932-8E38-259150A6CF2F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TP_DSI</RootNamespace>
+    <AssemblyName>TP-DSI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackEnd\BE_Acceso_Datos.cs" />
+    <Compile Include="Datos\DetalleExposicion.cs" />
+    <Compile Include="Datos\Empleado.cs" />
+    <Compile Include="Datos\Entrada.cs" />
+    <Compile Include="Datos\Exposicion.cs" />
+    <Compile Include="Datos\Obra.cs" />
+    <Compile Include="Datos\ReservaVisita.cs" />
+    <Compile Include="Datos\Sede.cs" />
+    <Compile Include="Datos\Sesion.cs" />
+    <Compile Include="Datos\Tarifa.cs" />
+    <Compile Include="Datos\TipoDeEntrada.cs" />
+    <Compile Include="Datos\TipoVisita.cs" />
+    <Compile Include="Datos\Usuario.cs" />
+    <Compile Include="Negocio\GestorVentaEntrada.cs" />
+    <Compile Include="Negocio\IObservador.cs" />
+    <Compile Include="Negocio\ISujeto.cs" />
+    <Compile Include="Presentacion\Frm_FinCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Frm_FinCU.Designer.cs">
+      <DependentUpon>Frm_FinCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Frm_Seguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Frm_Seguro.Designer.cs">
+      <DependentUpon>Frm_Seguro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Frm_seguro_Cancelar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Frm_seguro_Cancelar.Designer.cs">
+      <DependentUpon>Frm_seguro_Cancelar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\ImpresoraEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\ImpresoraEntrada.Designer.cs">
+      <DependentUpon>ImpresoraEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PantallaEntradaPpal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PantallaEntradaPpal.Designer.cs">
+      <DependentUpon>PantallaEntradaPpal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PantallaLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PantallaLogin.Designer.cs">
+      <DependentUpon>PantallaLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PantallaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PantallaPrincipal.Designer.cs">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\PantallaSala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\PantallaSala.Designer.cs">
+      <DependentUpon>PantallaSala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentacion\Frm_FinCU.resx">
+      <DependentUpon>Frm_FinCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Frm_Seguro.resx">
+      <DependentUpon>Frm_Seguro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\Frm_seguro_Cancelar.resx">
+      <DependentUpon>Frm_seguro_Cancelar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\ImpresoraEntrada.resx">
+      <DependentUpon>ImpresoraEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\MenuPrincipal.resx">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PantallaEntradaPpal.resx">
+      <DependentUpon>PantallaEntradaPpal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PantallaLogin.resx">
+      <DependentUpon>PantallaLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PantallaPrincipal.resx">
+      <DependentUpon>PantallaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\PantallaSala.resx">
+      <DependentUpon>PantallaSala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

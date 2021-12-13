@@ -1,0 +1,156 @@
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csprojAssemblyReference.cache
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\TP-DSI\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.AssemblyReference.cache
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.AssemblyReference.cache
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\dsi\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csprojAssemblyReference.cache
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\TP-DSI\QQQQ\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP-20210620T160840Z-001\DSITP-20210620T160840Z-001\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csprojAssemblyReference.cache
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_SeleccionTarifa.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_CantEntradas.resources
+C:\Users\tati_\Desktop\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_CantEntradas.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_SeleccionTarifa.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.AssemblyReference.cache
+E:\Onedrive\Escritorio\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.FrmNoHayTarifasVigentes.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csprojAssemblyReference.cache
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.FrmNoHayTarifasVigentes.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_CantEntradas.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_SeleccionTarifa.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+C:\Users\tati_\Desktop\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_Seguro.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.AssemblyReference.cache
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.FrmNoHayTarifasVigentes.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_CantEntradas.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_Seguro.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_SeleccionTarifa.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP (1)\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.FrmNoHayTarifasVigentes.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_CantEntradas.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_Seguro.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_SeleccionTarifa.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_seguro_Cancelar.resources
+E:\Onedrive\Escritorio\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.AssemblyReference.cache
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe.config
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.exe
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\bin\Debug\TP-DSI.pdb
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_FinCU.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_Seguro.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.Frm_seguro_Cancelar.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.MenuPrincipal.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaLogin.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaPrincipal.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Properties.Resources.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.GenerateResource.cache
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.csproj.CoreCompileInputs.cache
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.exe
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP-DSI.pdb
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaEntradaPpal.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.PantallaSala.resources
+E:\dsi\DSITP\DSITP\DSITP\DSITP\Proyecto\TP-DSI\TP-DSI\obj\Debug\TP_DSI.Presentacion.ImpresoraEntrada.resources
